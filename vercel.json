@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://zenflow-timer.vercel.app/tools/markdown-converter",
+      "permanent": true
+    }
+  ]
+}
